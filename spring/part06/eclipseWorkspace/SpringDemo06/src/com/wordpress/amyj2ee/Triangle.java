@@ -1,4 +1,4 @@
-package com.wordpress.amyj2ee;
+package com.wordpress.amyj2ee; 
 
 public class Triangle {
 	
