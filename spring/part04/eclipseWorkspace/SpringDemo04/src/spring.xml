@@ -5,4 +5,4 @@
 	<bean id="triangle" class="com.wordpress.amyj2ee.Triangle">
 	   <constructor-arg value="Equilateral"/>				
 	</bean>
-</beans> 
+</beans>
