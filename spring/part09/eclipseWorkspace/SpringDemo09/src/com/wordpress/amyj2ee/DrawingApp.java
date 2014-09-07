@@ -1,4 +1,4 @@
-package com.wordpress.amyj2ee;
+ package com.wordpress.amyj2ee;
 
 import org.springframework.beans.factory.BeanFactory;
 import org.springframework.beans.factory.xml.XmlBeanFactory;
